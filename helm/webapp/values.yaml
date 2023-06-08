@@ -8,7 +8,7 @@ image:
   repository: depa408/docker
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 5ffc831ebcf852aa744043edb6b5f72a28f3fc0e
+  tag: d68a8b72070d2eb96c26bb334aa2ed92e136b791
 
 imagePullSecrets: []
 nameOverride: ""
